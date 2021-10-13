@@ -1,4 +1,4 @@
-# Ankündigung Mitglieverversammlung
+# Ankündigung Mitgliederversammlung
 
 Vom 28. November bis zum 5. Dezember findet unsere Mitgliederversammlung als virtuelle Mitgliederversammlung gemäß §4 (6) statt.
 
