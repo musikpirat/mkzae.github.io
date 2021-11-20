@@ -6,4 +6,4 @@ Einziger Tagesordnungspunkt ist die Auflösung des Vereins gemäß § 2, Ziffer 
 
 Es gingen keine weiteren Anträge beim Vorstand ein. 
 
-Um einen Zugang zur Mitgliederversammlung zu erhalten, bitte eine E-Mail an musikpiraten@christian-hufgard.de schicken.
+Um einen Zugang zur Mitgliederversammlung zu erhalten, bitte eine E-Mail an vorstand@musikpiraten-ev.de schicken.
