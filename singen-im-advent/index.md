@@ -11,7 +11,7 @@ Zusätzlich zu dem PDF kann die Liedersammlung auch in gedruckter Form für 6,99
 ## DOWNLOAD
 Zum Download des 4,3 MB großen PDFs bitte [hier](https://raw.githubusercontent.com/musikpirat/singen-im-advent.github.io/gh-pages/Singen_im_Advent_-_Auflage_3.pdf) klicken.
 
-Natürlich stehen auch die Rohdaten des Buches zur Verfügung. Sie können unter [https://github.com/Musikpiraten/public-domain-season-songs heruntergeladen]( https://github.com/Musikpiraten/public-domain-season-songs) werden.
+Natürlich stehen auch die Rohdaten des Buches zur Verfügung. Sie können unter [https://github.com/Musikpiraten/public-domain-season-songs]( https://github.com/Musikpiraten/public-domain-season-songs) heruntergeladen werden.
 
 ## AKTUALISIERUNGEN
 Wir freuen uns über "sachdienliche" Hinweisen zu Fehlern oder Verbesserungsmöglichkeiten und nehmen diese auch schnellstmöglich auf. Eine Historie darüber, was wir wann geändert haben, führen wir in der Spalte rechts neben diesem Artikel.
