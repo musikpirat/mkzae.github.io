@@ -1,3 +1,3 @@
 # Vereinsauflösung
 
-Auch bei unser virtuellen Mitgliederversammlung zeigte sich der Mitgliederschwund, so dass faktisch mit einer Stimme die Auflösung beschlossen wurde.
+Der Verein ist durch Beschluss der Mitgliederversammlung vom 2.12.2022 – 9.12.2022 aufgelöst worden.
